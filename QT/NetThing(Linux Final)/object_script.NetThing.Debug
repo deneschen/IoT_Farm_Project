@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\monitor.o
+./debug\setdota.o
+./debug\controldota.o
+./debug\keyinput.o
+./debug\moc_mainwindow.o
+./debug\moc_monitor.o
+./debug\moc_setdota.o
+./debug\moc_controldota.o
+./debug\moc_keyinput.o
+./debug\qrc_Things_image.o
+);

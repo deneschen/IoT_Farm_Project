@@ -1,0 +1,7 @@
+#!/bin/bash
+
+QTHOME=/home/lapset/qtsdk-2010.01
+$(QTHOME)/qt/bin/qmake -o Makefile -spec $(QTHOME)/qt/mkspecs/qws/linux-generic-g++ *.pro 
+
+make clean
+make

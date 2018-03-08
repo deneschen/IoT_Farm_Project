@@ -1,0 +1,1 @@
+cmd_/home/linux/dotadriver/s5pc100_key/s5pc100_keyboard.ko := arm-none-linux-gnueabi-ld -EL -r  -T /home/linux/linux-2.6.35/scripts/module-common.lds --build-id -o /home/linux/dotadriver/s5pc100_key/s5pc100_keyboard.ko /home/linux/dotadriver/s5pc100_key/s5pc100_keyboard.o /home/linux/dotadriver/s5pc100_key/s5pc100_keyboard.mod.o

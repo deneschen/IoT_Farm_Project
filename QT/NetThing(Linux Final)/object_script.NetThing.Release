@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\monitor.o
+./release\setdota.o
+./release\controldota.o
+./release\keyinput.o
+./release\moc_mainwindow.o
+./release\moc_monitor.o
+./release\moc_setdota.o
+./release\moc_controldota.o
+./release\moc_keyinput.o
+./release\qrc_Things_image.o
+);

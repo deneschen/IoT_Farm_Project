@@ -1,0 +1,1 @@
+cmd_/home/linux/dotadriver/s5pc100_led/s5pc100_led.ko := arm-none-linux-gnueabi-ld -EL -r  -T /home/linux/linux-2.6.35/scripts/module-common.lds --build-id -o /home/linux/dotadriver/s5pc100_led/s5pc100_led.ko /home/linux/dotadriver/s5pc100_led/s5pc100_led.o /home/linux/dotadriver/s5pc100_led/s5pc100_led.mod.o

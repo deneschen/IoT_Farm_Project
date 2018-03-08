@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/alarm.png</file>
+        <file>images/alarm_1.png</file>
+        <file>images/backgd1.png</file>
+        <file>images/control.png</file>
+        <file>images/control_set.png</file>
+        <file>images/ctl.png</file>
+        <file>images/exit.png</file>
+        <file>images/led.png</file>
+        <file>images/led_1.png</file>
+        <file>images/name.png</file>
+        <file>images/return_ctl.png</file>
+        <file>images/set.png</file>
+        <file>images/smg.png</file>
+        <file>images/smg_1.png</file>
+        <file>images/wind.png</file>
+        <file>images/wind_1.png</file>
+        <file>images/calc2.png</file>
+        <file>images/calc.png</file>
+        <file>images/calc1.png</file>
+        <file>images/keyboard.png</file>
+        <file>images/alert_off.png</file>
+        <file>images/alert_on.png</file>
+        <file>images/bulb_off.png</file>
+        <file>images/bulb_on.png</file>
+        <file>images/Ae.png</file>
+        <file>images/reflash.png</file>
+    </qresource>
+</RCC>

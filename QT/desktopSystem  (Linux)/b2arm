@@ -1,0 +1,4 @@
+/home/linux/qt-everywhere-target/bin/qmake -spec /home/linux/qt-everywhere-target/mkspecs/qws/linux-arm-g++ -o Makefile *.pro 
+
+make clean
+make

@@ -1,0 +1,7 @@
+QTHOME=/home/test/qt3/
+/home/test/qt3/bin/qmake -project
+/home/test/qt3/bin/qmake
+
+
+make
+ 

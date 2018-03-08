@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\printdialog.o
+./debug\win_qextserialport.o
+./debug\qextserialport.o
+./debug\qextserialbase.o
+./debug\moc_mainwindow.o
+./debug\moc_printdialog.o
+./debug\moc_win_qextserialport.o
+./debug\moc_qextserialport.o
+./debug\moc_qextserialbase.o
+./debug\qrc_Bkg.o
+);

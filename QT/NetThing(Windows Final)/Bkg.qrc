@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/bkg.png</file>
+        <file>image/ck.png</file>
+        <file>image/xx.png</file>
+        <file>image/button.png</file>
+        <file>image/tembk.png</file>
+        <file>image/wind_1.png</file>
+        <file>image/alarm.png</file>
+        <file>image/alarm_1.png</file>
+        <file>image/led.png</file>
+        <file>image/led_1.png</file>
+        <file>image/smg.png</file>
+        <file>image/smg_1.png</file>
+        <file>image/wind.png</file>
+        <file>image/print.png</file>
+    </qresource>
+</RCC>

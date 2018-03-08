@@ -1,0 +1,4 @@
+1,to execute build2arm shell ,you can get the target platform exe.before do this, you should set your env to build2arm shell.
+
+
+2,to execute b2x86, you could get the PC exe, 
